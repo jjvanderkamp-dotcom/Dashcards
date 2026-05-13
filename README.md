@@ -36,13 +36,18 @@ Examples include:
 - Dryer
 - Dishwasher
 - Trash reminders
-- EV charging
-- Low battery
+- EV car charging
+- Car warning
+- Low batteries
 - Window cleaning
 - Smart home automations
 - Garden watering
 - Alarm notifications
-- And more...
+- And more... (and counting)
+
+Please contact me if you would like soms more Dashcards.
+
+I would be happy to make them according to your needs!
 
 ---
 
@@ -84,6 +89,49 @@ Currently included:
 - Dutch
 
 More language packs may be added later.
+
+### Nederlands / Dutch
+voor nederlanders, en eigen gebruik uiteraard, zijn is er een hele map toegevoegd met alle tekst in het nederlands.
+Deze map bestaat uit de volgende basis onderdelen: 
+- NAS aandacht nodig
+- auto waarschuwing
+- hooikoorts
+- weer waarschuwing
+- voer kat
+- voer hond
+- pakket verwacht
+- spuit nemen
+- medicijnen nemen
+- deur niet op slot
+- koelkast of vriezer open
+- glazenwassers
+- batterijen bijna leeg
+- frituur staat aan
+- auto is opgeladen
+- gft aan de weg
+- pmd aan de weg
+- papier aan de weg
+- wasmachine is klaar
+- droger is klaar
+- vaatwasser is klaar
+- glas aan de weg
+- luiers naar container
+- textiel aan de weg
+- tuinslang reminder
+- HA automatisering
+- let op fout
+- alarm persoon
+- container ophalen
+- planten water geven
+
+
+Deze lijst is aangemaakt tijdens publicatie, maar zal zeker op termijn nog flink uitbereid worden.
+
+Dien ook zeker jullie verzoeken in. 
+
+Ik ben erg benieuwd waarvoor jullie deze Dashcards nog meer zouden willen gebruiken.
+
+Dan zorg ik dat ik een Dashcard op maat maak!
 
 ---
 
