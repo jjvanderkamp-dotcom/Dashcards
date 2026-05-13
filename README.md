@@ -8,19 +8,20 @@ DashCards focuses on simple, clean and easy-to-recognize icons that work well on
 
 ## Features
 
-- Transparent background
+- Colored backgronds
 - Minimal monochrome design
 - White icons optimized for dark themes
 - Consistent visual style
-- 450x450 PNG format
+- 1020x600 PNG format 
 - Designed for Home Assistant
-- Great for Google Nest Hub casting
+- Great for Google Nest Hub casting (perfect size)
 
 ---
 
 ## Preview
 
 <img width="1020" height="600" alt="dashcard HA automatisering " src="https://github.com/user-attachments/assets/21cd20d1-02e6-4623-82a5-4c56713a54fd" />
+<img width="621" height="936" alt="Schermafbeelding 2026-05-13 122757" src="https://github.com/user-attachments/assets/7bb13109-4f3b-4830-92cb-ab82a8865428" /> <img width="632" height="936" alt="Schermafbeelding 2026-05-13 123015" src="https://github.com/user-attachments/assets/bd8e6cee-97a8-46a5-aef3-f64178fdbece" />
 
 ---
 
@@ -39,16 +40,6 @@ Examples include:
 - Garden watering
 - Alarm notifications
 - And more...
-
----
-
-## Folder Structure
-
-```text
-english/
-dutch/
-previews/
-```
 
 ---
 
@@ -104,6 +95,7 @@ Commercial redistribution or reselling is not allowed without permission.
 ## Feedback & Requests
 
 Suggestions, ideas and icon requests are always welcome.
+If some sentences dont make sense, just tell me and i will make ajustments
 
 If you use DashCards in your setup, feel free to share screenshots or ideas!
 
