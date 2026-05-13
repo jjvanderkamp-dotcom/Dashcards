@@ -20,8 +20,11 @@ DashCards focuses on simple, clean and easy-to-recognize icons that work well on
 
 ## Preview
 
-<img width="1020" height="600" alt="dashcard HA automatisering " src="https://github.com/user-attachments/assets/21cd20d1-02e6-4623-82a5-4c56713a54fd" />
-<img width="621" height="936" alt="Schermafbeelding 2026-05-13 122757" src="https://github.com/user-attachments/assets/7bb13109-4f3b-4830-92cb-ab82a8865428" /> <img width="632" height="936" alt="Schermafbeelding 2026-05-13 123015" src="https://github.com/user-attachments/assets/bd8e6cee-97a8-46a5-aef3-f64178fdbece" />
+<img width="1020" height="600" alt="dashcard HA automatisering " src="https://github.com/user-attachments/assets/21cd20d1-02e6-4623-82a5-4c56713a54fd" /> 
+<img width="1020" height="600" alt="dashcard batteries" src="https://github.com/user-attachments/assets/a2b153c9-cdbb-4ec9-b7ca-b7835ed595de" />
+<img width="1020" height="600" alt="dashcard medicine" src="https://github.com/user-attachments/assets/d4f707f5-18a2-40ac-a7cc-04d911aedaa6" />
+<img width="621" height="936" alt="Schermafbeelding 2026-05-13 122757" src="https://github.com/user-attachments/assets/7bb13109-4f3b-4830-92cb-ab82a8865428" /> 
+<img width="632" height="936" alt="Schermafbeelding 2026-05-13 123015" src="https://github.com/user-attachments/assets/bd8e6cee-97a8-46a5-aef3-f64178fdbece" />
 
 ---
 
