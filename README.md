@@ -20,7 +20,7 @@ DashCards focuses on simple, clean and easy-to-recognize icons that work well on
 
 ## Preview
 
-![DashCards Preview](previews/preview-dark.png)
+<img width="1020" height="600" alt="dashcard HA automatisering " src="https://github.com/user-attachments/assets/21cd20d1-02e6-4623-82a5-4c56713a54fd" />
 
 ---
 
