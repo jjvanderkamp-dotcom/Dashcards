@@ -8,7 +8,7 @@ DashCards focuses on simple, clean and easy-to-recognize icons that work well on
 
 ## Features
 
-- Colored backgronds
+- Colored backgrounds
 - Minimal monochrome design
 - White icons optimized for dark themes
 - Consistent visual style
@@ -45,9 +45,20 @@ Examples include:
 - Alarm notifications
 - And more... (and counting)
 
-Please contact me if you would like soms more Dashcards.
+Please contact me if you would like some more Dashcards.
 
 I would be happy to make them according to your needs!
+
+---
+
+## How to Download
+
+1. Click on the `Dashcards EN` or `Dashcards NL` folder above
+2. Click on the image file you want
+3. Click the **Download** button (top right)
+4. Save the file to your computer
+
+You can then upload the image to your Home Assistant and use it in your dashboard or automation.
 
 ---
 
@@ -91,7 +102,7 @@ Currently included:
 More language packs may be added later.
 
 ### Nederlands / Dutch
-voor nederlanders, en eigen gebruik uiteraard, zijn is er een hele map toegevoegd met alle tekst in het nederlands.
+Voor nederlanders, en eigen gebruik uiteraard, is er een hele map toegevoegd met alle tekst in het nederlands.
 Deze map bestaat uit de volgende basis onderdelen: 
 - NAS aandacht nodig
 - auto waarschuwing
@@ -125,7 +136,7 @@ Deze map bestaat uit de volgende basis onderdelen:
 - planten water geven
 
 
-Deze lijst is aangemaakt tijdens publicatie, maar zal zeker op termijn nog flink uitbereid worden.
+Deze lijst is aangemaakt tijdens publicatie, maar zal zeker op termijn nog flink uitgebreid worden.
 
 Dien ook zeker jullie verzoeken in. 
 
@@ -146,9 +157,6 @@ Commercial redistribution or reselling is not allowed without permission.
 ## Feedback & Requests
 
 Suggestions, ideas and icon requests are always welcome.
-If some sentences dont make sense, just tell me and i will make ajustments
+If some sentences don't make sense, just tell me and I will make adjustments.
 
 If you use DashCards in your setup, feel free to share screenshots or ideas!
-
----
-```
